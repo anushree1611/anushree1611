@@ -1,4 +1,5 @@
-![Uploading ChatGPT Image Jan 6, 2026, 10_50_33 PM.png…]()
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 6, 2026, 10_50_33 PM" src="https://github.com/user-attachments/assets/f45a05b4-2e2b-4182-a4ee-a7714cbcf77b" />
 
 <h1 align="center">Hi 👋, I'm Anushree</h1>
 <h3 align="center">🎓 Final Year Student | Aspiring Data Scientist & AI/ML Engineer 💻 Passionate about Machine Learning, Python, and Data Analysis 📊 Love building real-world projects and learning by doing</h3>
