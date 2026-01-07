@@ -1,5 +1,6 @@
 
-<img width="900" height="325" alt="ChatGPT Image Jan 6, 2026, 10_50_33 PM" src="https://github.com/user-attachments/assets/576a561f-3548-488c-9ca3-f9280b308d9b" />
+<img width="1536" height="500" alt="ChatGPT Image Jan 7, 2026, 08_58_25 PM" src="https://github.com/user-attachments/assets/b9912a6c-9fe0-4b68-acab-29f675d09d87" />
+
 
 <h1 align="center">Hi 👋, I'm Anushree</h1>
 <h3 align="center">🎓 Final Year Student | Aspiring Data Scientist & AI/ML Engineer 💻 Passionate about Machine Learning, Python, and Data Analysis 📊 Love building real-world projects and learning by doing</h3>
