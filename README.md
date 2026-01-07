@@ -1,5 +1,5 @@
 
-<img width="1500" height="500" alt="ChatGPT Image Jan 7, 2026, 08_58_25 PM" src="https://github.com/user-attachments/assets/b9912a6c-9fe0-4b68-acab-29f675d09d87" />
+<img width="1400" height="400" alt="ChatGPT Image Jan 7, 2026, 08_58_25 PM" src="https://github.com/user-attachments/assets/b9912a6c-9fe0-4b68-acab-29f675d09d87" />
 
 
 <h1 align="center">Hi 👋, I'm Anushree</h1>
